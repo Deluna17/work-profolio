@@ -1,0 +1,92 @@
+body{
+ background-color: aquamarine;
+}
+head {
+  background-color: aquamarine;
+}
+#home{
+
+ 
+}
+h1 {
+  color: blue;
+  text-align: center;
+
+}
+
+#image-container {  
+  text-align: center;
+  text-size-adjust: 1000px;
+  width: 1000px;
+  background: linear-gradient(to bottom, #ff6666 0%, #9900cc 100%);
+  
+  
+  
+  
+}
+
+#text {
+  text-align: center;
+  width: 100vh;
+  width: 100vh;
+  font-size: 15px;
+  
+}
+#image1 {
+ size: 100vh;
+  width: 100vh;
+  height: 500px;
+
+
+
+}
+#NameJ{
+  font-style: italic,Bold;
+  font-size: 30px;
+padding: 10px;
+}
+#About {
+
+  font-style: bold;
+  text-align: center;
+  font-size: 30px;
+    color: rgb(192, 29, 29);
+background: linear-gradient(to bottom, #ff6666 0%, #ccff99 100%);
+}
+#text2{
+    background-color: rgb(240, 172, 47);
+}
+#Exp{
+ font-style: bold;
+text-align: center;
+font-size: 30px;
+  color: rgb(32, 4, 4);
+  background: linear-gradient(to bottom, #ff6666 0%, #ccff99 100%);
+}
+#container-1{
+  color: rgb(228, 217, 216);
+  font-size: 35px;
+  background-color: rgb(194, 34, 87);
+  width: 300px;
+  border: 15px solid rgb(43, 71, 161);
+  padding: 50px;
+  margin: 10px;
+}
+
+#container-2{
+  color: aliceblue;
+  text-align: center;
+  font-size: 35px;
+  background-color: rgb(194, 34, 87);
+  width: 300px;
+  border: 15px solid rgb(43, 71, 161);
+  padding: 50px;
+  margin: 10px;
+}
+
+.container-wrapper{
+  width: 100vw;
+  display: flex;
+  justify-content: space-evenly;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
